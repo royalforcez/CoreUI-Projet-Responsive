@@ -19,8 +19,9 @@ Taper dans la console :
 * npm install bootstrap@5.3.3
 * npm install @coreui/coreui
 
-Installer le fichier CoreUI sur leur site
-Mettre les pages html dans coreui-free-bootstrap-admin-template-main\coreui-free-bootstrap-admin-template-main\dist
+Installer le fichier CoreUI sur leur site  
+Mettre les pages html dans coreui-free-bootstrap-admin-template-main\coreui-free-bootstrap-admin-template-main\dist et coreui-free-bootstrap-admin-template-main\coreui-free-bootstrap-admin-template-main\src\views  
+Et mettre le dossier images dans coreui-free-bootstrap-admin-template-main\coreui-free-bootstrap-admin-template-main\dist et coreui-free-bootstrap-admin-template-main\coreui-free-bootstrap-admin-template-main\src\views
 
 Pour démarrer le projet :
 * Dans la console se mettre à la racine du dossier avec le fichier package.json
